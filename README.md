@@ -3,6 +3,7 @@
 Lightbox Piwigo Plugin
 
 
+## About
 
 Author: [P@t](https://piwigo.org/forum/profile.php?id=3449)
 
@@ -19,6 +20,5 @@ Compatible with: Piwigo releases 2.0, 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.
 About: Display pictures and videos in a lightbox.
 
 
-
-Related links
+## Related links
 [OLD Trac page](http://piwigo.org/dev/browser/extensions/lightbox): (source code):
