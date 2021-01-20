@@ -1,0 +1,1 @@
+Visualizza le immagini in una lightbox.

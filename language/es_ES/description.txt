@@ -1,0 +1,1 @@
+Permite presentar la imagen en un lightbox

@@ -1,0 +1,1 @@
+Presenta les imatges en una finestra dinàmica que comprèn tota la pantalla sobre un fons transparent.
