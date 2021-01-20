@@ -21,4 +21,5 @@ About: Display pictures and videos in a lightbox.
 
 
 ## Related links
+[Piwigo official link](https://piwigo.org/ext/extension_view.php?eid=280)
 [OLD Trac page](http://piwigo.org/dev/browser/extensions/lightbox): (source code):
