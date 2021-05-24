@@ -21,7 +21,9 @@ function PWG_Colorbox() {
     initialWidth: "'.(!empty($params['initial_width']) ? $params['initial_width'] : $config_default['initial_width']).'",
     initialHeight: "'.(!empty($params['initial_height']) ? $params['initial_height'] : $config_default['initial_height']).'",
     width: '.(!empty($params['fixed_width']) ? '"'.$params['fixed_width'].'"' : 'false').',
-    height: '.(!empty($params['fixed_height']) ? '"'.$params['fixed_height'].'"' : 'false').'
+    height: '.(!empty($params['fixed_height']) ? '"'.$params['fixed_height'].'"' : 'false').',
+    maxWidth: '.(!empty($params['max_width']) ? '"'.$params['max_width'].'"' : 'false').',
+    maxHeight: '.(!empty($params['max_height']) ? '"'.$params['max_height'].'"' : 'false').'
     },
     function() { 
       jQuery.post("'.get_root_url().'plugins/lightbox/save_history.php", {

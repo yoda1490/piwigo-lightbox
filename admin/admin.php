@@ -24,6 +24,8 @@ if (isset($_POST['submit']))
     'initial_height'     => !empty($_POST['initial_height']) ? $_POST['initial_height'].$_POST['initial_height_px'] : '',
     'fixed_width'        => !empty($_POST['fixed_width']) ? $_POST['fixed_width'].$_POST['fixed_width_px'] : '',
     'fixed_height'       => !empty($_POST['fixed_height']) ? $_POST['fixed_height'].$_POST['fixed_height_px'] : '',
+    'max_width'          => !empty($_POST['max_width']) ? $_POST['max_width'].$_POST['max_width_px'] : '',
+    'max_height'         => !empty($_POST['max_height']) ? $_POST['max_height'].$_POST['max_height_px'] : '',
   );
   
   $query = '
@@ -82,6 +84,10 @@ $template->assign(array(
   'FIXED_WIDTH_PX'       => strpos($params['fixed_width'], '%')? false : true,
   'FIXED_HEIGHT'         => rtrim($params['fixed_height'], 'px%'),
   'FIXED_HEIGHT_PX'      => strpos($params['fixed_height'], '%')? false : true,
+  'MAX_WIDTH'            => rtrim($params['max_width'], 'px%'),
+  'MAX_WIDTH_PX'         => strpos($params['max_width'], '%')? false : true,
+  'MAX_HEIGHT'           => rtrim($params['max_height'], 'px%'),
+  'MAX_HEIGHT_PX'        => strpos($params['max_height'], '%')? false : true,
 ));
 
 
