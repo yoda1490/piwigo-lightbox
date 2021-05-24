@@ -25,7 +25,10 @@ $lang['lb_initial_width'] = 'Chiều rộng ban đầu';
 $lang['lb_initial_height'] = 'Chiều cao ban đầu';
 
 $lang['lb_fixed_width'] = 'Chiều rộng cố định';
-$lang['lb_fixed_height'] = 'Chiều cao ban đầu';
+$lang['lb_fixed_height'] = 'Chiều cao cố định';
+
+$lang['lb_max_width'] = 'Chiều rộng tối đa';
+$lang['lb_max_height'] = 'Chiều cao tối đa';
 
 $lang['lb_configuration_saved'] = 'Cấu hình đã được lưu';
 $lang['lb_default_parameters'] = 'Cấu hình mặc định';

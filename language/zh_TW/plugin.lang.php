@@ -24,8 +24,11 @@ $lang['lb_dimensions'] = '尺寸';
 $lang['lb_initial_width'] = '初始寬度'; 
 $lang['lb_initial_height'] = '初始高度'; 
 
-$lang['lb_fixed_width'] = '固定寬度'; 
-$lang['lb_fixed_height'] = '固定高度'; 
+$lang['lb_fixed_width'] = '固定寬度';
+$lang['lb_fixed_height'] = '固定高度';
+
+$lang['lb_max_width'] = '最大寬度';
+$lang['lb_max_height'] = '最大高度';
 
 $lang['lb_configuration_saved'] = '設定儲存';
 $lang['lb_default_parameters'] = '預設設定';

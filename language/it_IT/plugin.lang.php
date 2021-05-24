@@ -18,7 +18,7 @@ $lang['lb_theme'] = 'Tema';
 $lang['lb_transition_elastic'] = 'Elastico';
 $lang['lb_transition_fade'] = 'Sfumato';
 $lang['lb_transition_none'] = 'Nessuna';
-$lang['lb_transition_speed'] = 'Velocit‡ di transizione';
+$lang['lb_transition_speed'] = 'Velocit√† di transizione';
 
 $lang['lb_dimensions'] = 'Dimensioni';
 $lang['lb_initial_width'] = 'Larghezza iniziale';
@@ -26,6 +26,9 @@ $lang['lb_initial_height'] = 'Altezza iniziale';
 
 $lang['lb_fixed_width'] = 'Larghezza fissa';
 $lang['lb_fixed_height'] = 'Altezza fissa';
+
+$lang['lb_max_width'] = 'Larghezza massima';
+$lang['lb_max_height'] = 'Altezza massima';
 
 $lang['lb_configuration_saved'] = 'Configurazione salvata';
 $lang['lb_default_parameters'] = 'Parametri di default';

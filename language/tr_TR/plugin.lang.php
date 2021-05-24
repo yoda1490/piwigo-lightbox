@@ -27,6 +27,9 @@ $lang['lb_initial_height'] = 'İlk yükseklik';
 $lang['lb_fixed_width'] = 'Düzenlenmiş genişlik';
 $lang['lb_fixed_height'] = 'Düzenlenmiş yükseklik';
 
+$lang['lb_max_width'] = 'Maksimum genişlik';
+$lang['lb_max_height'] = 'Maksimum yükseklik';
+
 $lang['lb_configuration_saved'] = 'Ayarlar kaydedildi';
 $lang['lb_default_parameters'] = 'Varsayılan ayarlar';
 $lang['lb_default_parameters_saved'] = 'Varsayılan ayarlar kaydedildi';
