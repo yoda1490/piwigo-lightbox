@@ -27,6 +27,9 @@ $lang['lb_initial_height'] = 'Початкова висота';
 $lang['lb_fixed_width'] = 'Фіксована ширина';
 $lang['lb_fixed_height'] = 'Фіксована висота';
 
+$lang['lb_max_width'] = 'максимальна ширина';
+$lang['lb_max_height'] = 'максимальна висота';
+
 $lang['lb_configuration_saved'] = 'Конфігурація збережена';
 $lang['lb_default_parameters'] = 'Конфігурація за замовченням';
 $lang['lb_default_parameters_saved'] = 'Конфігурацію за замовченням збережено';

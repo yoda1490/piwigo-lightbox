@@ -27,6 +27,9 @@ $lang['lb_initial_height'] = 'Oorspronkelijke hoogte';
 $lang['lb_fixed_width'] = 'Vaste breedte';
 $lang['lb_fixed_height'] = 'Vaste hoogte';
 
+$lang['lb_max_width'] = 'Maximale breedte';
+$lang['lb_max_height'] = 'Maximale hoogte';
+
 $lang ['lb_configuration_saved'] = 'Configuratie opgeslagen';
 $lang ['lb_default_parameters'] = 'Standaard configuratie';
 $lang ['lb_default_parameters_saved'] = 'Standaard configuratie opgeslagen'; 

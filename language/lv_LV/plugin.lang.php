@@ -27,8 +27,11 @@ $lang['lb_initial_height'] = 'Sakotnejais augstums';
 $lang['lb_fixed_width'] = 'Fiksets platums';
 $lang['lb_fixed_height'] = 'Fiksets augstums';
 
+$lang['lb_max_width'] = 'Maksimālais platums';
+$lang['lb_max_height'] = 'Maksimālais augstums';
+
 $lang['lb_configuration_saved'] = 'Konfiguracija saglabata';
-$lang['lb_default_parameters'] = 'Konfiguracija pec nokluse�anas';
-$lang['lb_default_parameters_saved'] = 'Konfiguracija pec nokluse�anas saglabata';
+$lang['lb_default_parameters'] = 'Konfiguracija pec noklusešanas';
+$lang['lb_default_parameters_saved'] = 'Konfiguracija pec noklusešanas saglabata';
 
 ?>

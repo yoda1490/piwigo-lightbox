@@ -27,6 +27,9 @@ $lang['lb_initial_height'] = 'الارتفاع الابتدائي';
 $lang['lb_fixed_width'] = 'عرض ثابت';
 $lang['lb_fixed_height'] = 'ارتفاع ثابت';
 
+$lang['lb_max_width'] = 'أقصى عرض';
+$lang['lb_max_height'] = 'أقصى ارتفاع';
+
 $lang['lb_configuration_saved'] = 'تم حفظ الاعدادات';
 $lang['lb_default_parameters'] = 'الاعدادات الافتراضية';
 $lang['lb_default_parameters_saved'] = 'تم حفظ الاعدادت الافتراضية';

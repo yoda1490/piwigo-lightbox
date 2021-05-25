@@ -5,7 +5,7 @@ $lang['lb_display_name'] = 'Vis bilde tittel';
 $lang['lb_name_link'] = 'Tittel link';
 $lang['lb_none'] = 'Ingen';
 $lang['lb_picture'] = 'Bilde side';
-$lang['lb_high'] = 'Høy oppløslig bilde';
+$lang['lb_high'] = 'HÃ¸y opplÃ¸slig bilde';
 
 $lang['lb_display_arrows'] = 'Vis navigerings piler';
 $lang['lb_all_category'] = 'Bruk alle bilder i kategorien';
@@ -22,10 +22,13 @@ $lang['lb_transition_speed'] = 'Overgangs fart';
 
 $lang['lb_dimensions'] = 'Dimensjoner';
 $lang['lb_initial_width'] = 'Initial bredde';
-$lang['lb_initial_height'] = 'Initial høyde';
+$lang['lb_initial_height'] = 'Initial hÃ¸yde';
 
 $lang['lb_fixed_width'] = 'Fiksert bredde';
-$lang['lb_fixed_height'] = 'Fiksert høyde';
+$lang['lb_fixed_height'] = 'Fiksert hÃ¸yde';
+
+$lang['lb_max_width'] = 'Maksimal bredde';
+$lang['lb_max_height'] = 'Maksimal hÃ¸yde';
 
 $lang['lb_configuration_saved'] = 'Konfigurasjon lagret';
 $lang['lb_default_parameters'] = 'Standard konfigurasjon';

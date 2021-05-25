@@ -116,6 +116,21 @@
   </tr>
 
   <tr><td>&nbsp;</td></tr>
+
+  <tr>
+    <td align="right">{'lb_max_width'|@translate} : &nbsp;&nbsp;</td>
+    <td><input type="text" size="2" maxlength="3" name="max_width" value="{$MAX_WIDTH}">&nbsp;&nbsp;
+        <input type="radio" name="max_width_px" value="px" {if $MAX_WIDTH_PX}checked="checked"{/if}> px &nbsp;
+        <input type="radio" name="max_width_px" value="%" {if !$MAX_WIDTH_PX}checked="checked"{/if}> %</td>
+  </tr>
+  <tr>
+    <td align="right">{'lb_max_height'|@translate} : &nbsp;&nbsp;</td>
+    <td><input type="text" size="2" maxlength="3" name="max_height" value="{$MAX_HEIGHT}">&nbsp;&nbsp;
+        <input type="radio" name="max_height_px" value="px" {if $MAX_HEIGHT_PX}checked="checked"{/if}> px &nbsp;
+        <input type="radio" name="max_height_px" value="%" {if !$MAX_HEIGHT_PX}checked="checked"{/if}> %</td>
+  </tr>
+
+  <tr><td>&nbsp;</td></tr>
 </table>
 </fieldset>
 

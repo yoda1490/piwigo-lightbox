@@ -27,6 +27,9 @@ $lang['lb_initial_height'] = 'Initial höjd';
 $lang['lb_fixed_width'] = 'Fast bredd';
 $lang['lb_fixed_height'] = 'Fast höjd';
 
+$lang['lb_max_width'] = 'Maximal bredd';
+$lang['lb_max_height'] = 'Maximal höjd';
+
 $lang['lb_configuration_saved'] = 'Konfiguration sparad';
 $lang['lb_default_parameters'] = 'Standardkonfiguration';
 $lang['lb_default_parameters_saved'] = 'Standardkonfiguration sparad'; 

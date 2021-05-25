@@ -27,6 +27,9 @@ $lang['lb_initial_height'] = '初始高度';
 $lang['lb_fixed_width'] = '适合宽度';
 $lang['lb_fixed_height'] = '适合高度';
 
+$lang['lb_max_width'] = '最大宽度';
+$lang['lb_max_height'] = '最大高度';
+
 $lang['lb_configuration_saved'] = '恭喜，已保存成功';
 $lang['lb_default_parameters'] = '默认配置';
 $lang['lb_default_parameters_saved'] = '默认配置已保存';

@@ -27,6 +27,9 @@ $lang['lb_initial_height'] = 'Induló magasság';
 $lang['lb_fixed_width'] = 'Fix szélesség';
 $lang['lb_fixed_height'] = 'Fix magasság';
 
+$lang['lb_max_width'] = 'Maximális szélesség';
+$lang['lb_max_height'] = 'Maximális magasság';
+
 $lang['lb_configuration_saved'] = 'Beállítások mentése sikeres';
 $lang['lb_default_parameters'] = 'Alapértelmezett beállítások';
 $lang['lb_default_parameters_saved'] = 'Alapértelmezett beállítások mentése sikeres';

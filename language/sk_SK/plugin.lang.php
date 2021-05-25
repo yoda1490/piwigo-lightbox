@@ -27,6 +27,9 @@ $lang['lb_initial_height'] = 'Počiatočná výška';
 $lang['lb_fixed_width'] = 'Pevná šírka';
 $lang['lb_fixed_height'] = 'Pevná výška';
 
+$lang['lb_max_width'] = 'Maximálna šírka';
+$lang['lb_max_height'] = 'Maximálna výška';
+
 $lang['lb_configuration_saved'] = 'Konfigurácia uložená';
 $lang['lb_default_parameters'] = 'Predvolená konfigurácia';
 $lang['lb_default_parameters_saved'] = 'Predvolená konfigurácia uložená';

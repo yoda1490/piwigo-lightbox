@@ -12,6 +12,8 @@ $config_default = array(
   'initial_height'     => '400px',
   'fixed_width'        => '',
   'fixed_height'       => '',
+  'max_width'          => '',
+  'max_height'         => '',
 );
 
 ?>

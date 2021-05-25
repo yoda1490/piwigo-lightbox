@@ -27,6 +27,9 @@ $lang['lb_initial_height'] = 'Altura inicial';
 $lang['lb_fixed_width'] = 'Largura fixa';
 $lang['lb_fixed_height'] = 'Altura fixa';
 
+$lang['lb_max_width'] = 'Largura máxima';
+$lang['lb_max_height'] = 'Altura máxima';
+
 $lang['lb_configuration_saved'] = 'Configuração guardada';
 $lang['lb_default_parameters'] = 'Configuração padrão';
 $lang['lb_default_parameters_saved'] = 'Configuração padrão guardada';
